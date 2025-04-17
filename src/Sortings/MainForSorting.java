@@ -8,6 +8,7 @@ public class MainForSorting {
         Sorting sorting = new Implementaions();
 //        sorting.bubble(arr);
           sorting.selection(arr);
+          //changed
 
 
 
